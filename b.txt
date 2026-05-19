@@ -1,1 +1,1 @@
-b.txt : This is b.txt come from foo branch!
+B
